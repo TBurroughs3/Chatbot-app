@@ -22,4 +22,4 @@ D, I = index.search(query_embedding, k=3)
 print("
 Top matching documents:")
 for idx in I[0]:
-    print(f"- {sources[idx]}")
+    print(f"Welcome to Clinical Education")
